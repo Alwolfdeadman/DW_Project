@@ -1,0 +1,12 @@
+15.0
+10
+1       SQLCHAR             0       50      ";"     1     trans_id             ""
+2       SQLCHAR             0       50      ";"     2     account_id             ""
+3       SQLCHAR             0       50      ";"     3     date_of_trans             ""
+4       SQLCHAR             0       50      ";"     4     type_of_trans             ""
+5       SQLCHAR             0       50      ";"     5     operation_mode_t             ""
+6       SQLCHAR             0       50      ";"     6     amount             ""
+7       SQLCHAR             0       50      ";"     7     balance             ""
+8       SQLCHAR             0       50      ";"     8     K_symbol             ""
+9       SQLCHAR             0       50      ";"     9     bank             ""
+10       SQLCHAR             0       50      "\r\n"     10     account             ""

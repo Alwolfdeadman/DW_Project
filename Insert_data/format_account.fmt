@@ -1,0 +1,6 @@
+15.0
+4
+1       SQLCHAR             0       50      ";"     1     account_id             ""
+2       SQLCHAR             0       50      ";"     2     district_id             ""
+3       SQLCHAR             0       50      ";"     4     Date_of_creation             ""
+4       SQLCHAR             0       50      "\r\n"     3     frequency             ""

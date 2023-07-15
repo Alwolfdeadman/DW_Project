@@ -1,0 +1,8 @@
+15.0
+6
+1       SQLCHAR             0       50      ";"     1     order_id             ""
+2       SQLCHAR             0       50      ";"     2     account_id             ""
+3       SQLCHAR             0       50      ";"     3     bank_to             ""
+4       SQLCHAR             0       50      ";"     4     account_to             ""
+5       SQLCHAR             0       50      ";"     5     amount             ""
+6       SQLCHAR             0       50      "\r\n"     6     K_symbol             ""

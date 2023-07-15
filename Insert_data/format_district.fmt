@@ -1,0 +1,18 @@
+15.0
+16
+1       SQLCHAR             0       50      ";"     1     district_id             ""
+2       SQLCHAR             0       50      ";"     2     A2             ""
+3       SQLCHAR             0       50      ";"     3     A3             ""
+4       SQLCHAR             0       50      ";"     4     A4             ""
+5       SQLCHAR             0       50      ";"     5     A5             ""
+6       SQLCHAR             0       50      ";"     6     A6             ""
+7       SQLCHAR             0       50      ";"     7     A7             ""
+8       SQLCHAR             0       50      ";"     8     A8             ""
+9       SQLCHAR             0       50      ";"     9     A9             ""
+10       SQLCHAR             0       50      ";"     10     A10             ""
+11       SQLCHAR             0       50      ";"     11     A11             ""
+12       SQLCHAR             0       50      ";"     12     A12             ""
+13       SQLCHAR             0       50      ";"     13     A13             ""
+14       SQLCHAR             0       50      ";"     14     A14             ""
+15       SQLCHAR             0       50      ";"     15     A15             ""
+16       SQLCHAR             0       50      "\r\n"     16     A16             ""

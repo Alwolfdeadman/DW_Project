@@ -1,0 +1,9 @@
+15.0
+7
+1       SQLCHAR             0       50      ";"     1     loan_id             ""
+2       SQLCHAR             0       50      ";"     2     account_id             ""
+3       SQLCHAR             0       50      ";"     3     date_of_creation             ""
+4       SQLCHAR             0       50      ";"     4     amount             ""
+5       SQLCHAR             0       50      ";"     5     duration             ""
+6       SQLCHAR             0       50      ";"     6     payments             ""
+7       SQLCHAR             0       50      "\r\n"     7     status_l             ""

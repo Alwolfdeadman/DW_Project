@@ -1,0 +1,6 @@
+15.0
+4
+1       SQLCHAR             0       50      ";"     1     card_id             ""
+2       SQLCHAR             0       50      ";"     2     disp_id             ""
+3       SQLCHAR             0       50      ";"     3     type_of_card             ""
+4       SQLCHAR             0       50      "\r\n"     4     issued             ""
